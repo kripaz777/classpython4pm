@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <name>Ram</name>
+    <age>45</age>
+    <add>Kathmandu</add>
+  </row>
+  <row>
+    <index>1</index>
+    <name>Shyam</name>
+    <age>67</age>
+    <add>Bhaktapur</add>
+  </row>
+</data>
